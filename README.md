@@ -1,2 +1,2 @@
-# Doodle-Search-Engine-
+# Doodle-Search-Engine
 Search Engine Like Google in PHP...
